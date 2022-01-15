@@ -5,8 +5,6 @@ J
 frontend/public/index.html,5\3\53b461857fde9b76a1c6e79a500050ceffbd7f33
 F
 frontend/tsconfig.json,1\8\18471fb0707c190401cd5328ddb4664160a53d26
-R
-"frontend/src/assets/img/github.svg,d\9\d955c25cf86bf60469baef47ca489e1124c12075
 E
 frontend/package.json,3\7\37083060967a471c011a16651e22bdc2ade41759
 B
